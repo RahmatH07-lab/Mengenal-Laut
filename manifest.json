@@ -1,0 +1,34 @@
+{
+  "background_color": "#0d9eff",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Mengenal Laut",
+  "orientation": "landscape-primary",
+  "scope": "/https://mengenal-laut.vercel.app/",
+  "short_name": "Mengenal Laut",
+  "start_url": "/https://mengenal-laut.vercel.app/",
+  "theme_color": "#1bf5ed",
+  "icons": [
+    {
+      "src": "https://mengenal-laut.vercel.app/vite.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "Mengenal-Laut-Raxiel",
+  "description": "Aplikasi yang membantu anak anak terutama 5 tahun ke atas untuk mengenal tentang laut dan semua yang ada di dalamnya",
+  "lang": "id",
+  "categories": [
+    "education",
+    "games",
+    "kids",
+    "video"
+  ]
+}
