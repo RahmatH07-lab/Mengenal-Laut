@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Laut Si Kiki",
+  "description": "Animasi edukasi interaktif anak usia 5 tahun ke atas bersama narator cilik yang menjelaskan keajaiban hewan laut dengan suara ceria, animasi kartun, musik ceria, dan kuis interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
